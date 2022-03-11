@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
+// this is my code 
 int main(){
 	int num;
 	srand(time(0));
